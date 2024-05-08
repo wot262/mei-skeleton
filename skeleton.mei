@@ -23,7 +23,8 @@
              <measure n="1">
                 <staff n="1">
                    <layer n="1">
-                      <!-- musical content of measure 1 goes here -->
+                      <note pname="d" oct="4" dur="4">
+                      </note>
                    </layer>
                 </staff>
              </measure>
